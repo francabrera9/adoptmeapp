@@ -116,21 +116,7 @@ foreach ($a_sexo as $k_sexo => $v_sexo) {
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <?php
-session_start();
 
-// Verificar si la variable de sesión 'username' está definida
-if(isset($_SESSION['username'])) {
-    // El usuario ha iniciado sesión
-    $username = $_SESSION['username'];
-    // Resto del código de la página
-    // ...
-} else {
-    // El usuario no ha iniciado sesión, redireccionar al formulario de inicio de sesión
-    header("Location: login.php");
-    exit();
-}
-?>
 
   <script>
     $(document).ready(function() {
