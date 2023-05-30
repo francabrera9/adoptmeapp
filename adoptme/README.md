@@ -1,6 +1,6 @@
 # adoptme
 
-Adoptme es una aplicación web, pensada para ....
+Adoptme es una aplicación web, pensada para cubrir las necesidades de los animales abandonados que no tienen voz para buscar una casa donde poder ser felices y un espacio para las personas que quieran ayudar a darles esa oportunidad a los animales que lo necesiten.
 
 Ha sido desarrollado separando back de front:
 
